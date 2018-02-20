@@ -1,0 +1,1 @@
+-javaagent:/home/alex/jrebel/lib/jrebel.jar -Xbootclasspath/p:/tmp/rebelboot.jar
